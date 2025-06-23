@@ -1,6 +1,6 @@
-developers
+Developers:
 
-bushra
-Arooba
-Zaid 
-Khawaja Muzzamil 
+Bushra Abdul Razzaq
+Umme Arooba
+Muhammad Zaid Shaikh
+Khawaja Muzzammil Hussain
